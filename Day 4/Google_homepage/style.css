@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+.footer{
+	display: block;
+	background-color:#f2f2f2;
+	margin-top: 380px;
+	padding: 10px 10px 10px 20px;
+}
+.fright{
+	float: right;
+	padding: 0 20 0 0px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{ 
+	text-decoration: underline;
+}
